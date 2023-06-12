@@ -1,0 +1,22 @@
+{
+    "users":[
+	{
+	    "name":"Joe",
+	    "age":22,
+	    "likes_python":true,
+	    "hobbies":["fishing", "biking", "swimming"]
+	},
+	{
+	    "name":"Mary",
+	    "age":87,
+	    "likes_python":true,
+	    "hobbies":["motorcycles", "poker", "saxaphone"]
+	},
+	{
+	    "name":"Ann",
+	    "age":8,
+	    "likes_python":false,
+	    "hobbies":["minecraft", "legos", "soccer"]
+	}
+    ]
+}
